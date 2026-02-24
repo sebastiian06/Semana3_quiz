@@ -5,6 +5,14 @@ Criterio de éxito: La app responde en http://localhost:8080/health con {"ok": t
 
 EJECUTANDO:
 ![alt text](image.png)
+
+
+
+
+9:12 PM NO SE HA LEVANTADO EL PROYECTO POR FALLAS CON EL INTERNET 
+
+![alt text](image-1.png)
+(mira la hora profe 9:12pm y no ha levantado)
 # FASE 2 — Auditoría del código
 
 | #  | Descripción del problema                                                                 | Archivo              | Línea aprox.        | Principio violado                          | Riesgo |
